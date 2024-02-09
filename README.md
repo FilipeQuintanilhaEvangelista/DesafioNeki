@@ -2,7 +2,8 @@
 
 ### API:
 1. Navegue até a pasta "teste-filipe".
-2. Execute a API.
+2. Crie a DataBase TesteNeki no PostgreSQL.
+3. Execute a API.
 
 ### Web:
 1. Navegue até a pasta "FrontEnd-Web".
